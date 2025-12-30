@@ -1,9 +1,10 @@
 {
-  "latest": "2.4.6.1",
+  "latest": "2.4.6.2",
   "versions": [
     "2.4.4",
     "2.4.6",
-    "2.4.6.1"
+    "2.4.6.1",
+    "2.4.6.2"
   ],
   "downloadUrl": "https://www.austhaibirds.com/BirdWave/2.4.6.1/BirdWaveInstaller.exe"
 }
