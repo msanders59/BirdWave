@@ -1,12 +1,12 @@
 {
-  "latestVersion": "2.4.9.8",
-  "versionList": ["2.4.9.8"],
+  "latestVersion": "2.4.11.3",
+  "versionList": ["2.4.11.3"],
   "updateMode": "manual",
   
   "appName":"BirdWave",
   "installerFileName":"BirdWaveInstaller.exe",
   
-  "githubUrl": "https://github.com/msanders59/BirdWave/releases/download/v2.4.9.8/BirdWaveInstaller.exe",
+  "githubUrl": "https://github.com/msanders59/BirdWave/releases/download/v2.4.11.3/BirdWaveInstaller.exe",
   "joomlaUrl": "https://austhaibirds.com/update-app",
   
   "logUrl": "https://austhaibirds.com/BirdWave/DownloadUpdate.php"
