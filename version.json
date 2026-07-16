@@ -4,6 +4,7 @@
   "appName":"BirdWave",
   "installerFileName":"BirdWaveInstaller.exe",
   "githubDownloadUrl": "https://github.com/msanders59/BirdWave/releases/download",
+  "modelDownloadUrl": "https://github.com/msanders59/BirdWave/releases/download/2025_data",
   "githubUrl": "https://github.com/msanders59/BirdWave/releases/download/v3.0/BirdWaveInstaller.exe",
   "joomlaUrl": "https://austhaibirds.com/update-app",
   "logUrl": "https://austhaibirds.com/BirdWave/DownloadUpdate.php"
