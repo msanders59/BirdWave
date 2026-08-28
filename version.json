@@ -8,5 +8,17 @@
   "githubUrl": "https://github.com/msanders59/BirdWave/releases/download/v3.0/BirdWaveInstaller.exe",
   "joomlaUrl": "https://austhaibirds.com/update-app",
   "logUrl": "https://austhaibirds.com/BirdWave/DownloadUpdate.php"
+  
+  "platforms": {
+    "windows": {
+      "latestVersion": "3.0.7.15",
+      "installerFileName": "BirdWaveInstaller.exe"
+    },
+    "mac": {
+      "latestVersion": "3.0.7.17",
+      "installerFileName": "BirdWaveInstaller.dmg"
+    }
+  }
+  
 }
 
