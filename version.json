@@ -1,11 +1,15 @@
 {
-  "latestVersion": "3.0.7.15",
+  "appName": "BirdWave",
   "updateMode": "manual",
-  "appName":"BirdWave",
-  "installerFileName":"BirdWaveInstaller.exe",
   "githubDownloadUrl": "https://github.com/msanders59/BirdWave/releases/download",
   "modelDownloadUrl": "https://github.com/msanders59/BirdWave/releases/download/2026_data",
   "githubUrl": "https://github.com/msanders59/BirdWave/releases/download/v3.0/BirdWaveInstaller.exe",
   "joomlaUrl": "https://austhaibirds.com/update-app",
-  "logUrl": "https://austhaibirds.com/BirdWave/DownloadUpdate.php"
+  "logUrl": "https://austhaibirds.com/BirdWave/DownloadUpdate.php",
+  "latestVersion": "3.0.7.15",
+  "installerFileName": "BirdWaveInstaller.exe",
+  "platforms": {
+    "win": { "latestVersion": "3.0.7.15", "installerFileName": "BirdWaveInstaller.exe" },
+    "mac": { "latestVersion": "3.0.7.17", "installerFileName": "BirdWaveInstaller.dmg" }
+  }
 }
