@@ -1,6 +1,6 @@
 {
   "appName": "BirdWave",
-  "updateMode": "download",
+  "updateMode": "update",
   "githubDownloadUrl": "https://github.com/msanders59/BirdWave/releases/download",
   "modelDownloadUrl": "https://github.com/msanders59/BirdWave/releases/download/2026_data",
   "githubUrl": "https://github.com/msanders59/BirdWave/releases/download/v3.0/BirdWaveInstaller.exe",
