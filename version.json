@@ -6,7 +6,7 @@
   "githubUrl": "https://github.com/msanders59/BirdWave/releases/download/v3.0/BirdWaveInstaller.exe",
   "joomlaUrl": "https://austhaibirds.com/update-app",
   "logUrl": "https://austhaibirds.com/BirdWave/DownloadUpdate.php",
-  "latestVersion": "3.0.8.0",
+  "latestVersion": "3.0.6.0",
   "installerFileName": "BirdWaveInstaller.exe",
   "platforms": {
     "windows": { "releaseTag": "v3.0-win", "latestVersion": "3.0.8.17", "installerFileName": "BirdWaveInstaller.exe" },
