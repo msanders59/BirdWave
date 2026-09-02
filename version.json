@@ -7,9 +7,9 @@
   "joomlaUrl": "https://austhaibirds.com/update-app",
   "logUrl": "https://austhaibirds.com/BirdWave/DownloadUpdate.php",
   "latestVersion": "3.0.7.17",
-  "installerFileName": "BirdWaveInstaller.exe",
+  "installerFileName": "BirdWaveInstaller-win-x64.exe",
   "platforms": {
-    "windows": { "releaseTag": "v3.0-win", "latestVersion": "3.0.8.17", "installerFileName": "BirdWaveInstaller.exe" },
-    "macos":  {  "releaseTag": "v3.0-mac", "latestVersion": "3.0.8.3", "installerFileName": "BirdWave.dmg" }
+    "windows": { "releaseTag": "v3.0-win", "latestVersion": "3.0.7.17", "installerFileName": "BirdWaveInstaller-win-x64.exe" },
+    "macos":  {  "releaseTag": "v3.0-mac", "latestVersion": "3.0.8.3", "installerFileName": "BirdWaveInstaller-mac.dmg" }
   }
 }
