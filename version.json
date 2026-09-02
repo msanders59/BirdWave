@@ -10,6 +10,6 @@
   "installerFileName": "BirdWaveInstaller.exe",
   "platforms": {
     "windows": { "releaseTag": "v3.0-win", "latestVersion": "3.0.7.17", "installerFileName": "BirdWaveInstaller.exe" },
-    "macos":  {  "releaseTag": "v3.0-mac", "latestVersion": "3.0.7.18", "installerFileName": "BirdWave.dmg" }
+    "macos":  {  "releaseTag": "v3.0-mac", "latestVersion": "3.0.8.3", "installerFileName": "BirdWave.dmg" }
   }
 }
