@@ -11,6 +11,6 @@
   "platforms": {
     "windows": { "releaseTag": "v3.0-win", "latestVersion": "3.0.8.1", "installerFileName": "BirdWave-Installer-win-x64.exe" },
     "macos": { "releaseTag": "v3.0-mac", "latestVersion": "3.0.8.3", "installerFileName": "BirdWave-Installer-mac.dmg" },
-    "linux": { "releaseTag": "v3.0-linux", "latestVersion": "3.0.8.3", "installerFileName": "BirdWave-x86_64.AppImage" }
+    "linux": { "releaseTag": "v3.0-linux", "latestVersion": "3.0.8.4", "installerFileName": "BirdWave-x86_64.AppImage" }
   }
 }
