@@ -4,8 +4,8 @@
   "githubDownloadUrl": "https://github.com/msanders59/BirdWave/releases/download",
   "modelDownloadUrl": "https://github.com/msanders59/BirdWave/releases/download/2026_data",
   "githubUrl": "https://github.com/msanders59/BirdWave/releases/download/v3.0/BirdWaveInstaller.exe",
-  "joomlaUrl": "https://austhaibirds.com/update-app",
-  "logUrl": "https://austhaibirds.com/BirdWave/DownloadUpdate.php",
+  "joomlaUrl": "https://msbirds.com/update-app",
+  "logUrl": "https://msbirds.com/BirdWave/DownloadUpdate.php",
   "latestVersion": "3.0.9.4",
   "installerFileName": "BirdWave-Installer-win-x64.exe",
   "platforms": {
