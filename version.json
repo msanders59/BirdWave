@@ -9,7 +9,6 @@
   "latestVersion": "3.0.12.1",
   "installerFileName": "BirdWave-Installer-win-x64.exe",
   "platforms": {
-    "windows": { "releaseTag": "v3.0-win", "latestVersion": "3.0.13.1", "installerFileName": "BirdWave-Installer-win-x64.exe" },
-
+    "windows": { "releaseTag": "v3.0-win", "latestVersion": "3.0.13.1", "installerFileName": "BirdWave-Installer-win-x64.exe" }
   }
 }
